@@ -31,4 +31,3 @@ Code is under the [BSD 2 Clause (NetBSD) license](https://github.com/Homebrew/ho
 We accept tips through [Gratipay](https://gratipay.com/Homebrew/).
 
 [![Gratipay](https://img.shields.io/gratipay/Homebrew.svg?style=flat)](https://www.gittip.com/Homebrew/)
-Date
